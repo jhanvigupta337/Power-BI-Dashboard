@@ -1,4 +1,4 @@
-# jhanvi
+# Power BI Dashboard
 Churn Analysis
 
 You can view the dashboard with live data by clicking on this link.
